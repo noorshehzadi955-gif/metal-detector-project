@@ -50,6 +50,19 @@ The project demonstrates the complete development process of a basic metal detec
 - Multisim project file
 - Project documentation
 - Supporting images and media
+- ## Project Images
+
+### Multisim Simulation
+
+![Metal Detector Simulation](Metal%20Detector%202.jpeg)
+
+### Physical Prototype
+
+![Metal Detector Prototype](Metal%20detector%201.jpeg)
+
+### Project Demonstration
+
+![Metal Detector Demonstration](Metal%20Detector3.jpeg)
 
 ## Author
 
