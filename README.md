@@ -63,6 +63,12 @@ The project demonstrates the complete development process of a basic metal detec
 ### Project Demonstration
 
 ![Metal Detector Demonstration](Metal%20Detector3.jpeg)
+ ## Project Videos
+### Video 1
+[Watch Metal Detector Project Video 1](video%20project%201.mp4)
+
+### Video 2
+[Watch Metal Detector Project Video 2](video%20project%202.mp4)
 
 ## Author
 
